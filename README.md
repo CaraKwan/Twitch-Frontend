@@ -1,3 +1,5 @@
+This application is the frontend implementation of a web project based on Twitch API which provide features such as recommendation, favorite and searching of games and streaming.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
